@@ -1,0 +1,14 @@
+play_pause: <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Uniconlabs - Flaticon</a>
+
+play: <a href="https://www.flaticon.com/free-icons/pause-play" title="pause play icons">Pause play icons created by Hilmy Abiyyu A. - Flaticon</a>
+
+pause: <a href="https://www.flaticon.com/free-icons/pause-play" title="pause play icons">Pause play icons created by Hilmy Abiyyu A. - Flaticon</a>
+
+enemy: <a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Smashicons - Flaticon</a>
+
+enemy3: <a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Freepik - Flaticon</a>
+
+enemy4: <a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Smashicons - Flaticon</a>
+
+enemy5: <a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Freepik - Flaticon</a>
+
